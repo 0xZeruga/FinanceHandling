@@ -1,0 +1,234 @@
+{   
+    "Food": [ {
+        "name": "Eggs & Bread (fried, boiled, scrambled, omelette",
+        "price": 35000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Pancake (mango/banana)",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Noodle Soup",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Veggie Noodle Soup",
+        "price": 30000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Fruit & Yoghurt",
+        "price": 60000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Fruit",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Burger & fries (beef, chicken)",
+        "price": 90000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Veggie Burger",
+        "price": 70000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Spagetti (bolognese, carbonara)",
+        "price": 90000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Pizza Medium (ham, chicken, cheese)",
+        "price": 110000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Pizza Large (ham, chicken, cheese)",
+        "price": 140000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Veg Pizza",
+        "price": 90000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Sandwhich (chicken, tuna, ham, cheese",
+        "price": 60000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Veggie Sandwhich",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Chunky Soup (chicken, seafood)",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "French Fries/Sweet Corn",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Scrambled Tofu",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Tofu in tomato sauce",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Potato Stew",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Pumpkin Stew",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Eggplant tofu & rice",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Fried morning glory",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Fried rice/noodles (chicken, beef, pork)",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Veg fried rice/noodles",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Spring rolls",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Veg Spring rolls",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Fried Squid (butter & garlic)",
+        "price": 120000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Grilled fish",
+        "price": 120000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Chicken with fried vegetables",
+        "price": 120000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Vietnamese style pork",
+        "price": 120000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }
+    ],
+    "Drink": [ {
+        "name": "Coffee (hot, iced, fresh or sweet milk, black/coconut milk)",
+        "price": 25000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Tea (black/ginger/fresh/strawberry/peach)",
+        "price": 20000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Juice (orange/lemon)",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Juice (other)",
+        "price": 25000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Fruit smoothie (banana/mango/dragonfruit)",
+        "price": 55000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Fruit smoothie (other)",
+        "price": 45000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Soft drinks",
+        "price": 15000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Beer",
+        "price": 25000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },  
+    {
+        "name": "Wine (local)",
+        "price": 40000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Wine (imported)",
+        "price": 60000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }, 
+    {
+        "name": "Rice wine shot",
+        "price": 10000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }
+],
+    "Snack": [ {
+        "name": "Oreos/Snickers/KitKat",
+        "price": 25000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Pringles",
+        "price": 50000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Kent/Marlboro",
+        "price": 25000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    },
+    {
+        "name": "Than Long",
+        "price": 20000,
+        "lastchanged": "2019-08-01 20:18:27.027953"
+    }
+],
+    "Laundry": {
+        "cost/kilo": 40000,
+        "lastchanged": "2019-08-01 20:22:23.460469"
+    }
+}
